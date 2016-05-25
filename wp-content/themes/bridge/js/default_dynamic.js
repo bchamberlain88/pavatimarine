@@ -150,8 +150,8 @@ function showContactMap() {
 }
 
 var no_ajax_pages = [];
-var qode_root = 'http://dev.pavatimarine.com/';
-var theme_root = 'http://dev.pavatimarine.com/wp-content/themes/bridge/';
+var qode_root = 'http://www.pavatimarine.com/';
+var theme_root = 'http://www.pavatimarine.com/wp-content/themes/bridge/';
 var header_style_admin = "";
 if(typeof no_ajax_obj !== 'undefined') {
 	no_ajax_pages = no_ajax_obj.no_ajax_pages;
