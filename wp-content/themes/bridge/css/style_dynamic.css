@@ -84,7 +84,7 @@
 	.portfolio_navigation.navigation_title .post_info span.categories,
 	.qode_portfolio_related .projects_holder article .portfolio_description .project_category
 	{
-        color: #ffffff !important;
+        color: #888888 !important;
     }
 	h2 a:hover,
 	h3 a:hover,
@@ -123,7 +123,7 @@
     .fullscreen_search_holder .search_submit:hover
 	{
 
-		color: #ffffff;
+		color: #888888;
 	}
 
     .box_image_with_border:hover,
@@ -157,7 +157,7 @@
         .woocommerce ul.products li.product .added_to_cart:hover,
         input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover,
     .portfolio_main_holder .item_holder.image_subtle_rotate_zoom_hover .icons_holder a:hover {
-        border-color: #ffffff    }
+        border-color: #888888    }
 
     .q_icon_list i,
     .q_progress_bar .progress_content,
@@ -228,14 +228,14 @@
     .portfolio_main_holder .item_holder.image_text_zoom_hover .icons_holder a,
     .portfolio_main_holder .item_holder.slow_zoom .icons_holder a,
 	.qode_video_box .qode_video_image:hover .qode_video_box_button	{
-        background-color: #ffffff    }
+        background-color: #888888    }
 
 
     .q_circles_holder .q_circle_inner2:hover,
 	.blog_holder article.format-link .post_text:hover .post_text_inner,
 	.blog_holder article.format-quote .post_text:hover .post_text_inner {
-        background-color: #ffffff !important;
-        border-color: #ffffff !important;
+        background-color: #888888 !important;
+        border-color: #888888 !important;
     }
 
 
