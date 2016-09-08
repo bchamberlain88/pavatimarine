@@ -8,7 +8,7 @@
 		echo('<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">');
 	} ?>
 
-	<title><?php wp_title(''); ?></title>
+	<title><?php wp_title(''); ?><?php if ( $paged < 2 ) { } else { echo (' Page '); echo ($paged);} ?></title>
 
 	<?php
 	/**

@@ -42,3 +42,19 @@ div#s2id_shipping_state {
 p#order_comments_field {
     border: 1px solid black;
 }
+mark.count {
+    display: none;
+}
+.title_subtitle_holder_inner > h1 > span {
+    display: none;
+}
+input#terms {
+    float: left;
+    margin: 6px 6px 0 0;
+}
+#shipping_method > li {
+    list-style: none;
+}
+.wc-terms-and-conditions > label.checkbox {
+    float: left;
+}

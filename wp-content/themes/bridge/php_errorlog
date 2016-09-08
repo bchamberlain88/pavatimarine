@@ -1,2 +1,10 @@
 [04-Jun-2016 15:58:14 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/index.php on line 1
 [13-Jun-2016 17:45:46 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/index.php on line 1
+[06-Jul-2016 06:21:59 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/404.php on line 5
+[07-Jul-2016 22:57:45 CST6CDT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/functions.php on line 6
+[08-Jul-2016 00:24:34 CST6CDT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/functions.php on line 6
+[27-Jul-2016 23:00:42 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/404.php on line 5
+[28-Jul-2016 23:20:22 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/404.php on line 5
+[01-Aug-2016 15:55:41 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/archive.php on line 1
+[03-Aug-2016 12:09:15 CST6CDT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/functions.php on line 6
+[03-Aug-2016 19:59:06 CST6CDT] PHP Fatal error:  Call to undefined function load_theme_textdomain() in /home/highwayp/public_html/pavatimarine/wp-content/themes/bridge/functions.php on line 6
